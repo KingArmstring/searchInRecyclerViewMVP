@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Search in RecyclerView</string>
+    <string name="country_image">country_image</string>
+    <string name="country_name">Country Name</string>
+</resources>
