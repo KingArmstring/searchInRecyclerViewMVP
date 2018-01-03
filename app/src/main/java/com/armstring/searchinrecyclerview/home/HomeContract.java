@@ -9,9 +9,11 @@ public interface HomeContract {
 
     }
     interface HomePresenterInterface{
-
+        public String[] getCountriesNames();
+        public int[] getCountriesImages();
     }
     interface HomeModelInterface{
-
+        public String[] getNames();
+        public int[] getImgs();
     }
 }
